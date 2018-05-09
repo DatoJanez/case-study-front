@@ -4,12 +4,13 @@ Frontend application for case study
 
 For compiling application Rollup is used. It compiles typescript, rolles it up, finaly uglifyes. Treeshaking can be added here. 
 `rollup -c rollup-config.js`
- 
-[Annyang](https://github.com/DatoJanez/case-study-front/blob/master/src/annyang.ts)
-Wrapper class for Annyang library. Handles speech recognition and command matching tasks.
+
 
 [App](https://github.com/DatoJanez/case-study-front/blob/master/src/app.ts)
 Application Bootstrap class. Declares all clases
+
+[Annyang](https://github.com/DatoJanez/case-study-front/blob/master/src/annyang.ts)
+Wrapper class for Annyang library. Handles speech recognition and command matching tasks.
 
 [Converter](https://github.com/DatoJanez/case-study-front/blob/master/src/converter.ts)
 Converts correncies and subscribes to convert streams
