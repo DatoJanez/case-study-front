@@ -1,0 +1,41 @@
+{
+  "name": "case-study",
+  "version": "1.0.0",
+  "description": "currency converter progressive app",
+  "main": "data-synchroniser.service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DatoJanez/case-study-front.git"
+  },
+  "keywords": [
+    "offline",
+    "speech",
+    "recognition",
+    "image",
+    "recognition",
+    "convert",
+    "currency"
+  ],
+  "author": "jnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DatoJanez/case-study-front/issues"
+  },
+  "homepage": "https://github.com/DatoJanez/case-study-front#readme",
+  "dependencies": {
+    "dexie": "^2.0.3",
+    "rxjs": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/core-js": "0.9.35",
+    "@types/node": "^10.0.4",
+    "babel-core": "^6.26.3",
+    "rollup": "0.50.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-typescript": "^0.8.1",
+    "rollup-plugin-uglify": "^2.0.1"
+  }
+}
