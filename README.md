@@ -6,7 +6,6 @@ For compiling application Rollup is used. It compiles typescript, rolles it up, 
 `rollup -c rollup-config.js`
  
 [Annyang](https://github.com/DatoJanez/case-study-front/master/src/annyang.ts)
-
 Wrapper class for Annyang library. Handles speech recognition and command matching tasks.
 
 [App](https://github.com/DatoJanez/case-study-front/master/src/app.ts)
