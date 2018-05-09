@@ -3,12 +3,7 @@ const staticCacheName = `${version}static-resources`;
 
 const offlineStuff = [
     'index.html',
-    // 'data-synchroniser.service.js',
-    // 'data-synchroniser.service.js',
-    'app.js',
-    'listen.js',
-    'dom.js',
-    'online.js',
+    'build.js',
     'https://unpkg.com/dexie@2.0.3/dist/dexie.js',
     'http://data.fixer.io/api/latest?access_key=8d981abfaca9f2e4162521b9ecf540db',
     'https://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js',
